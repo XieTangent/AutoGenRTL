@@ -1,0 +1,46 @@
+{
+  "info": {
+    "question": "請生成一個4位元加法器的Verilog程式",
+    "model":  ["4o", "o1"],
+    "testbench": "",
+    "max_count": "",
+    "if_gen_waveform": "",
+
+    "final_code": "",
+    "change_count": 3,
+    "syntax_status": "passed",
+    "semantic_status": "failed",
+    "start_time": "2025-08-15T12:34:56Z",
+    "end_time": "2025-08-15T12:34:56Z"
+  },
+  "iteration": [
+    {
+      "iteration_id": 1,
+      "iteration_by": "",
+
+      "token_used": "",
+
+      "error_code": "",
+      "error_messages": "",
+
+      "gpt_response": "",
+      "new_code": "",
+      
+      "image_base64": ""
+    },
+    {
+      "iteration_id": 2,
+      "iteration_by": "",
+
+      "token_used": "",
+
+      "error_code": "",
+      "error_messages": "",
+
+      "gpt_response": "",
+      "new_code": "",
+      
+      "image_base64": ""
+    }
+  ]
+}

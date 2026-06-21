@@ -1,0 +1,9 @@
+.env
+data/
+__pycache__/
+*.pyc
+*.pyo
+result*.json
+test_sim/
+src/vlog_workspace/
+src/api/vlog_workspace/
